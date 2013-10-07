@@ -1,4 +1,4 @@
-prjcomposicaoLO
+Graph Databases
 ===============
 
-Repositório com adições ao aplicativo de composição de objetos de aprendizagem.
+Repository to collect code for GraphDatabase applications. 
